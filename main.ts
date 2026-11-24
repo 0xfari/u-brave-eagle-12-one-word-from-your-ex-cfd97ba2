@@ -7,6 +7,8 @@ import * as path from "node:path";
 // Almost the one. Almost grown up. Almost ready. Almost worth staying for.
 // It is not an insult, it is a verdict, and that is exactly why it stings:
 // every almost is a door that stayed shut by one inch.
+// An almost is a whole story told in six letters: the ending arrived before the beginning finished.
+// She kept the word in her pocket like a receipt for a purchase she never quite made.
 const WORD = "almost";
 const OUTPUT_NAME = "entry.txt";
 const FALLBACK_OUTPUT_DIR = "/output";
